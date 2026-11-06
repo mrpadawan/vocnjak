@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="sr-Latn">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+    <title>Voćnjak — selo kod Loznice</title>
+    <meta
+      name="description"
+      content="Voćnjak kod Loznice: atrakcije, 20 minuta pešice do Tršića, interaktivna 3D mapa sa mestima iz sela, istorija i FK Luk — rezultati, raspored i tabela."
+    />
+    <meta name="theme-color" content="#0e3320" media="(prefers-color-scheme: dark)" />
+    <meta name="theme-color" content="#fbf6e9" media="(prefers-color-scheme: light)" />
+    <meta name="color-scheme" content="light dark" />
+
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="apple-touch-icon" href="/favicon.svg" />
+    <link rel="manifest" href="/manifest.webmanifest" />
+
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Voćnjak" />
+    <meta property="og:locale" content="sr_RS" />
+    <meta property="og:title" content="Voćnjak — selo kod Loznice" />
+    <meta
+      property="og:description"
+      content="Atrakcije, 3D mapa sela, istorija i FK Luk. Tršić je samo 20 minuta pešice."
+    />
+    <meta name="twitter:card" content="summary" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:ital,wght@0,600;0,800;1,800&family=Roboto+Condensed:ital,wght@0,700;0,800;1,800&family=Playfair+Display:ital,wght@0,700;0,800;1,700&family=Fraunces:ital,opsz,wght@0,9..144,600;0,9..144,800;1,9..144,700&family=Manrope:wght@400;500;600;700;800&display=swap"
+      rel="stylesheet"
+    />
+    <script>
+      try {
+        var t = localStorage.getItem('vocnjak-theme');
+        var dark = t ? t === 'dark' : window.matchMedia('(prefers-color-scheme: dark)').matches;
+        if (dark) document.documentElement.classList.add('dark');
+        var l = localStorage.getItem('vocnjak-lang');
+        if (l === 'cyr') document.documentElement.lang = 'sr-Cyrl';
+        if (l === 'en') document.documentElement.lang = 'en';
+      } catch (e) {}
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <noscript>
+      <p style="font-family: system-ui, sans-serif; padding: 2rem; max-width: 40rem; margin: 0 auto">
+        Voćnjak — selo kod Loznice. Za prikaz ove stranice potreban je JavaScript. · This site needs JavaScript.
+      </p>
+    </noscript>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

@@ -1,0 +1,11 @@
+{
+  "name": "Voćnjak — selo kod Loznice",
+  "short_name": "Voćnjak",
+  "description": "Atrakcije, 3D mapa, istorija sela i FK Luk.",
+  "lang": "sr-Latn",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fbf6e9",
+  "theme_color": "#0e3320",
+  "icons": [{ "src": "favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}

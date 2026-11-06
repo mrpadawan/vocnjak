@@ -1,0 +1,307 @@
+{
+  "fetchedAt": "2026-11-06T13:27:16.657Z",
+  "source": {
+    "name": "srbijasport.net",
+    "url": "https://srbijasport.net/club/1148-luk-vocnjak"
+  },
+  "club": {
+    "id": 1148,
+    "name": "Luk Kompenzatori",
+    "town": "Voćnjak",
+    "founded": 1990
+  },
+  "competition": {
+    "name": "Fudbal - Muškarci - 2026-2027 - Opštinske lige - Opštinska liga Loznica - grupa A",
+    "url": "https://srbijasport.net/league/8891-opstinska-liga-loznica---grupa-a"
+  },
+  "standings": [
+    {
+      "clubId": 2170,
+      "pos": 1,
+      "team": "Prva Iskra",
+      "town": "Runjani",
+      "played": 8,
+      "won": 8,
+      "drawn": 0,
+      "lost": 0,
+      "gf": 21,
+      "ga": 5,
+      "gd": 16,
+      "pts": 24
+    },
+    {
+      "clubId": 1157,
+      "pos": 2,
+      "team": "Mladost",
+      "town": "Brezjak",
+      "played": 8,
+      "won": 6,
+      "drawn": 1,
+      "lost": 1,
+      "gf": 25,
+      "ga": 5,
+      "gd": 20,
+      "pts": 19
+    },
+    {
+      "clubId": 2046,
+      "pos": 3,
+      "team": "Jedinstvo",
+      "town": "Mali Zvornik",
+      "played": 8,
+      "won": 4,
+      "drawn": 2,
+      "lost": 2,
+      "gf": 20,
+      "ga": 9,
+      "gd": 11,
+      "pts": 14
+    },
+    {
+      "clubId": 1649,
+      "pos": 4,
+      "team": "Sloga (K)",
+      "town": "Korenita",
+      "played": 8,
+      "won": 4,
+      "drawn": 1,
+      "lost": 3,
+      "gf": 19,
+      "ga": 13,
+      "gd": 6,
+      "pts": 13
+    },
+    {
+      "clubId": 1155,
+      "pos": 5,
+      "team": "TE Gučevo",
+      "town": "Trbušnica",
+      "played": 8,
+      "won": 3,
+      "drawn": 2,
+      "lost": 3,
+      "gf": 26,
+      "ga": 15,
+      "gd": 11,
+      "pts": 11
+    },
+    {
+      "clubId": 1150,
+      "pos": 6,
+      "team": "Sloga (S)",
+      "town": "Straža",
+      "played": 8,
+      "won": 2,
+      "drawn": 4,
+      "lost": 2,
+      "gf": 12,
+      "ga": 15,
+      "gd": -3,
+      "pts": 10
+    },
+    {
+      "clubId": 6376,
+      "pos": 7,
+      "team": "Mladost",
+      "town": "Loznica",
+      "played": 8,
+      "won": 2,
+      "drawn": 1,
+      "lost": 5,
+      "gf": 11,
+      "ga": 23,
+      "gd": -12,
+      "pts": 7
+    },
+    {
+      "clubId": 12034,
+      "pos": 8,
+      "team": "Jadar 07",
+      "town": "Loznica",
+      "played": 8,
+      "won": 1,
+      "drawn": 3,
+      "lost": 4,
+      "gf": 11,
+      "ga": 19,
+      "gd": -8,
+      "pts": 6
+    },
+    {
+      "clubId": 1148,
+      "pos": 9,
+      "team": "Luk Kompenzatori",
+      "town": "Voćnjak",
+      "played": 8,
+      "won": 0,
+      "drawn": 3,
+      "lost": 5,
+      "gf": 8,
+      "ga": 24,
+      "gd": -16,
+      "pts": 3
+    },
+    {
+      "clubId": 14629,
+      "pos": 10,
+      "team": "Vladića Brdo",
+      "town": "Loznica",
+      "played": 8,
+      "won": 0,
+      "drawn": 3,
+      "lost": 5,
+      "gf": 13,
+      "ga": 38,
+      "gd": -25,
+      "pts": 3
+    }
+  ],
+  "matches": [
+    {
+      "id": "898576",
+      "round": 1,
+      "date": "2026-09-13T11:00:00+02:00",
+      "home": "Vladića Brdo",
+      "away": "Luk Kompenzatori",
+      "venue": "Loznica",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "url": "https://srbijasport.net/game/898576-vladica-brdo-luk-kompenzatori"
+    },
+    {
+      "id": "898579",
+      "round": 2,
+      "date": "2026-09-20T11:00:00+02:00",
+      "home": "Luk Kompenzatori",
+      "away": "Mladost",
+      "venue": "Voćnjak",
+      "score": {
+        "home": 0,
+        "away": 3
+      },
+      "url": "https://srbijasport.net/game/898579-luk-kompenzatori-mladost"
+    },
+    {
+      "id": "898587",
+      "round": 3,
+      "date": "2026-09-27T11:00:00+02:00",
+      "home": "Sloga (S)",
+      "away": "Luk Kompenzatori",
+      "venue": "Straža",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "url": "https://srbijasport.net/game/898587-sloga-s-luk-kompenzatori"
+    },
+    {
+      "id": "898588",
+      "round": 4,
+      "date": "2026-10-04T11:00:00+02:00",
+      "home": "Mladost",
+      "away": "Luk Kompenzatori",
+      "venue": "Brezjak",
+      "score": {
+        "home": 5,
+        "away": 0
+      },
+      "url": "https://srbijasport.net/game/898588-mladost-luk-kompenzatori"
+    },
+    {
+      "id": "898597",
+      "round": 5,
+      "date": "2026-10-11T11:00:00+02:00",
+      "home": "Luk Kompenzatori",
+      "away": "Jedinstvo",
+      "venue": "Voćnjak",
+      "score": {
+        "home": 0,
+        "away": 3
+      },
+      "url": "https://srbijasport.net/game/898597-luk-kompenzatori-jedinstvo"
+    },
+    {
+      "id": "898599",
+      "round": 6,
+      "date": "2026-10-17T15:00:00+02:00",
+      "home": "Jadar 07",
+      "away": "Luk Kompenzatori",
+      "venue": "Loznica",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "url": "https://srbijasport.net/game/898599-jadar-07-luk-kompenzatori"
+    },
+    {
+      "id": "898606",
+      "round": 7,
+      "date": "2026-10-25T10:30:00+01:00",
+      "home": "Luk Kompenzatori",
+      "away": "TE Gučevo",
+      "venue": "Voćnjak",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "url": "https://srbijasport.net/game/898606-luk-kompenzatori-te-gucevo"
+    },
+    {
+      "id": "898610",
+      "round": 8,
+      "date": "2026-11-01T10:30:00+01:00",
+      "home": "Sloga (K)",
+      "away": "Luk Kompenzatori",
+      "venue": "Korenita",
+      "score": {
+        "home": 5,
+        "away": 2
+      },
+      "url": "https://srbijasport.net/game/898610-sloga-k-luk-kompenzatori"
+    },
+    {
+      "id": "898615",
+      "round": 9,
+      "date": "2026-11-08T10:00:00+01:00",
+      "home": "Luk Kompenzatori",
+      "away": "Prva Iskra",
+      "venue": "Voćnjak",
+      "score": null,
+      "url": "https://srbijasport.net/game/898615-luk-kompenzatori-prva-iskra"
+    }
+  ],
+  "topPlayers": [
+    {
+      "id": 47318,
+      "num": 21,
+      "name": "Marko Nikolić",
+      "position": "Golman"
+    },
+    {
+      "id": 47321,
+      "num": 5,
+      "name": "Danijel Radovanović",
+      "position": "Odbrana"
+    },
+    {
+      "id": 47322,
+      "num": 6,
+      "name": "Aleksandar Milovanović",
+      "position": "Odbrana"
+    },
+    {
+      "id": 47365,
+      "num": 15,
+      "name": "Danijel Simić",
+      "position": "Napad"
+    },
+    {
+      "id": 47366,
+      "num": 14,
+      "name": "Saša Pavlović",
+      "position": "Napad"
+    }
+  ]
+}
